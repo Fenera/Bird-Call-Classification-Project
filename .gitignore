@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated models
+*.joblib
+*.pkl
+
+# Temporary files
+*.log
+.DS_Store
+
+# Downloaded datasets (adjust if your team needs them)
+*.wav
+*.mp3
+*.flac
